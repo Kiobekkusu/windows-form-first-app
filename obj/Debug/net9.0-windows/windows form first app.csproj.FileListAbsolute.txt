@@ -1,0 +1,14 @@
+C:\Users\Hector\Desktop\windows form first app\bin\Debug\net9.0-windows\windows form first app.exe
+C:\Users\Hector\Desktop\windows form first app\bin\Debug\net9.0-windows\windows form first app.deps.json
+C:\Users\Hector\Desktop\windows form first app\bin\Debug\net9.0-windows\windows form first app.runtimeconfig.json
+C:\Users\Hector\Desktop\windows form first app\bin\Debug\net9.0-windows\windows form first app.dll
+C:\Users\Hector\Desktop\windows form first app\bin\Debug\net9.0-windows\windows form first app.pdb
+C:\Users\Hector\Desktop\windows form first app\obj\Debug\net9.0-windows\windows form first app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hector\Desktop\windows form first app\obj\Debug\net9.0-windows\windows form first app.AssemblyInfoInputs.cache
+C:\Users\Hector\Desktop\windows form first app\obj\Debug\net9.0-windows\windows form first app.AssemblyInfo.cs
+C:\Users\Hector\Desktop\windows form first app\obj\Debug\net9.0-windows\windows form first app.csproj.CoreCompileInputs.cache
+C:\Users\Hector\Desktop\windows form first app\obj\Debug\net9.0-windows\windows form first app.dll
+C:\Users\Hector\Desktop\windows form first app\obj\Debug\net9.0-windows\refint\windows form first app.dll
+C:\Users\Hector\Desktop\windows form first app\obj\Debug\net9.0-windows\windows form first app.pdb
+C:\Users\Hector\Desktop\windows form first app\obj\Debug\net9.0-windows\windows form first app.genruntimeconfig.cache
+C:\Users\Hector\Desktop\windows form first app\obj\Debug\net9.0-windows\ref\windows form first app.dll
